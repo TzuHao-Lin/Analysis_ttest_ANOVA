@@ -1,1 +1,0 @@
-# Analysis_ttest_ANOVA
